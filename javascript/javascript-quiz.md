@@ -295,7 +295,7 @@ function addNumbers(x, y) {
 
 [Reference javascript throw](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw)
 
-#### Q18. Which method converts JSON data to a JavaScript object?
+#### Q18. Which method converts JSON string to a JavaScript object?
 
 - [ ] `JSON.fromString();`
 - [ ] `JSON.parse()`
